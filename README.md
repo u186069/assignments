@@ -7,4 +7,5 @@ this repository contains my assignment
 
 [assignment 3](https://github.com/u186069/assignments/blob/master/assignment3.ipynb)
 
-[assignment 4](
+[assignment 4](https://github.com/u186069/assignments/blob/master/assignment4.ipynb)
+
