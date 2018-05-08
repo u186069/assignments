@@ -9,3 +9,5 @@ this repository contains my assignment
 
 [assignment 4](https://github.com/u186069/assignments/blob/master/assignment4.ipynb)
 
+[assignment Graded Assignment 1](https://github.com/u186069/assignments/blob/master/Graded_assignment1.ipynb)
+
