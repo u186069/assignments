@@ -11,3 +11,5 @@ this repository contains my assignment
 
 [assignment Graded Assignment 1](https://github.com/u186069/assignments/blob/master/Graded_assignment1.ipynb)
 
+[assignment Graded Assignment 2](https://github.com/u186069/assignments/blob/master/Graded_assignment_2.ipynb)
+
